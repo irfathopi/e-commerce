@@ -1,0 +1,12 @@
+.container{
+    margin-bottom:100px;
+}
+
+.banner-back{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    ;
+}
+.container img{
+    padding:20px;
+}
